@@ -12,7 +12,7 @@ body {
 
 .container {
     text-align: center;
-    background-color: yellow;
+    background-color: #82d9e8;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@ input {
 
 button {
     padding: 8px 20px;
-    background-color: red;
+    background-color: #0e168a;
     color: white;
     border: none;
     border-radius: 4px;
